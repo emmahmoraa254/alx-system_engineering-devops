@@ -10,6 +10,6 @@
 8-firstdelete delete the file betty
 9-firstdirdeletion deletes my_first_directory
 10-back changes the working directory to the previous one
-
+11-lists lists all specified files
 12-file_type print the type of a file
 13-symbolic_link create a symbolic link to /bin/ls and name it __ls__
