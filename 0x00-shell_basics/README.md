@@ -12,3 +12,4 @@
 10-back changes the working directory to the previous one
 
 12-file_type print the type of a file
+13-symbolic_link create a symbolic link to /bin/ls and name it __ls__
