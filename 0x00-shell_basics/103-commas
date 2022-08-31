@@ -1,2 +1,2 @@
 #!/bin/bash
-VALUE=$(ls -al -v -m -p) | echo -e "$VALUE\n"
+echo -e "$(ls -al -v -m -p)\n"
