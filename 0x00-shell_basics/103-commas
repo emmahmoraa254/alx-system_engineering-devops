@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(ls -al -v -m -p)\n"
+echo "$(ls -al -v -m -p)"
