@@ -13,3 +13,4 @@
 11-lists lists all specified files
 12-file_type print the type of a file
 13-symbolic_link create a symbolic link to /bin/ls and name it __ls__
+14-copy_html copies all html files
