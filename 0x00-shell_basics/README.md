@@ -4,7 +4,7 @@
 2-bring_me_home changes the working directory to the user's home directory
 3-listfiles display current directory contents in a long format
 4-listmorefiles dispay current directory content including hidden files
-
+5-listfilesdigitonly dispaly current directory contents : - long format, -with user and group IDs displayed numerically, - and hidden files (starting with .)
 6-firstdirectory creates a directory in /tmp
 7-movethatfile move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete delete the file betty
