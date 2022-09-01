@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -hR 751 . 
+chmod -hR 751 . 
