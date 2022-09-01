@@ -8,3 +8,4 @@
 7-everybody adds execution permission to all
 8-James_Bond sets permission to file hello
 9-John_Doe sets the mode of file hello
+10-mirror_permissions set the mode of a file same as that of another
