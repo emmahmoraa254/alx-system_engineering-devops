@@ -10,5 +10,5 @@
 9-John_Doe sets the mode of file hello
 10-mirror_permissions set the mode of a file same as that of another
 
-
+12-directory_permissions create a directory with 751 permissions
 13-change_group chnages the group owner of hello
